@@ -14,9 +14,8 @@ git merge
 
 echo
 
-<<<<<<< HEAD
+
 git local
-=======
+
 from hub
 
->>>>>>> b80d4ccc008d0e05135606d3c35543c2dea21020
