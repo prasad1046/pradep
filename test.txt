@@ -11,3 +11,5 @@ git push
 git update
 
 git merge
+
+from origin
