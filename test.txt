@@ -9,3 +9,7 @@ git commit
 git push
 
 git update
+
+git merge
+
+echo
