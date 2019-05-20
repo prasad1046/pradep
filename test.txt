@@ -12,8 +12,7 @@ git update
 
 git merge
 
-<<<<<<< HEAD
 echo
-=======
-from origin
->>>>>>> ed4d92f6c967058fce74cf50aa1fb748083f67d6
+
+from hub
+
