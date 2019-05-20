@@ -5,3 +5,5 @@ hi there i am flying to canada by this end
 git add
 
 git commit 
+
+git push
